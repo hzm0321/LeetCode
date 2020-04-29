@@ -1,5 +1,5 @@
 /*
- * practice03 - 移除数组中的元素(原数组上修改)
+ * practice04 - 移除数组中的元素(原数组上修改)
  */
 
 export function splice(arr, item) {

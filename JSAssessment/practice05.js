@@ -1,5 +1,5 @@
 /*
- * practice03 - 添加元素
+ * practice05 - 添加元素
  */
 
 export function concat(arr, item) {

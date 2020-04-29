@@ -1,5 +1,5 @@
 /*
- * practice03 - 删除数组最后一个元素
+ * practice06 - 删除数组最后一个元素
  */
 
 export function truncate(arr) {
