@@ -11,3 +11,4 @@ test('1.两数之和', () => {
   const target = 9
   expect(array(nums,target)).toEqual([0,1])
 });
+
